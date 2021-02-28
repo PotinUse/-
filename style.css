@@ -1,0 +1,61 @@
+header{
+    background-color:navy;
+    color:white;
+    text-align:center;
+    font-size:50px;
+}
+main{
+background-color:rgb(151, 113, 187);
+color:white;
+font-size:30px;
+text-align:center;
+}
+ img{
+    text-align:center;
+    height:500px;
+    border:5px solid rgb(54, 54, 112);
+}
+ p{
+ background-color:navy;
+ text-align:center;
+ margin:20x;
+ padding:10px;
+ color:white;
+}
+
+h1{
+font-size:35px;
+background-color:rgb(70, 72, 155);
+}
+
+h2{
+font-size:25px;
+background-color:rgb(112, 75, 180);
+color:rgb(125, 178, 221);
+}
+
+h3{
+font-size:25px;
+background-color:rgb(112, 75, 180);
+color:rgb(125, 178, 221);
+}
+
+h4{
+font-size:31px;
+background-color:rgb(112, 75, 180);
+color:rgb(125, 178, 221);
+}
+h5{
+font-size:25px;
+background-color:rgb(112, 75, 180);
+color:rgb(125, 178, 221); 
+}
+footer{
+background-color:grey;
+text-align:left;
+font-size:30px;
+}
+footer a{
+color:lightblue;
+font-size:20px;
+}
